@@ -12,7 +12,9 @@ const Mouse = () => {
                         <span className="arrow-three a3"></span>
                     </div>
             </div>
+
     )
 }
 
+console.log(Mouse);
 export default Mouse;
