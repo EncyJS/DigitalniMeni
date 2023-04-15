@@ -1,0 +1,3 @@
+<img src={item.imgUrl} alt={item.title} />
+
+<p>{item.description}</p>
